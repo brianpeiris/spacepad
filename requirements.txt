@@ -1,0 +1,2 @@
+pyspacemouse==1.0.3
+vgamepad==0.0.8
