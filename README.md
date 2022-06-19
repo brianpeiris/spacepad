@@ -8,12 +8,12 @@ The mapping used is a bit quirky, since it was designed to be used with a fork o
 
 | gamepad | spacemouse |
 | - | - |
-| left thumbstick x | spacemouse x |
-| left thumbstick y | spacemouse y |
-| right thumbstick x | spacemouse roll |
-| right thumbstick y | spacemouse z |
-| left trigger | spacemouse pitch |
-| right trigger | spacemouse yaw |
+| left thumbstick x | x |
+| left thumbstick y | y |
+| right thumbstick x | roll |
+| right thumbstick y | z |
+| left trigger | pitch |
+| right trigger | yaw |
 
 This repo also includes hidapi.dll for Windows, from [libusb](https://github.com/libusb/hidapi), under the BSD license detailed in LICENSE-hidapi.md.
 
