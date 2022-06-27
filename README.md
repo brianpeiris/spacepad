@@ -1,6 +1,6 @@
 # spacepad
 
-A simple python script that turns a 3Dconnexion SpaceMouse device into a standard Xbox-style gamepad device, using pyspacemouse and vgamepad.
+A simple python script that turns a 3Dconnexion SpaceMouse device into a standard Xbox-style gamepad device, using pyspacemouse and vgamepad. This allows the SpaceMouse to be used in browsers via the Gamepad API.
 
 You do not need to install 3Dconnexion's software or drivers to use this script.
 
